@@ -1,4 +1,4 @@
-# CentOS 7 Ansible Test Image
+# CentOS 8 Ansible Test Image
 
 [![Build Status](https://travis-ci.org/mikev1963/docker-centos8-ansible.svg?branch=master)](https://travis-ci.org/mikev1963/docker-centos8-ansible)
 
